@@ -1,5 +1,8 @@
 # PYnative Exercise 5:
-# Given a list of numbers, return True if first and last number of a list is same
+# Given a list of numbers, return True if first and last number of a list is same.
+# https://pynative.com/python-basic-exercise-for-beginners/
+
+# Note: I'm very aware that this is a slightly more complex way of solving the exercise. Creating slightly more complicated solutions helps me learn.
 
 
 # First will generate a random list of numbers
