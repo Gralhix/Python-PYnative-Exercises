@@ -1,6 +1,6 @@
 # PYnative Exercise 9:
 # Reverse a given number and return true if it is the same as the original number
-
+# https://pynative.com/python-basic-exercise-for-beginners/
 
 # Will generate a random number between 100 and 999
 
